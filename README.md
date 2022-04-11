@@ -39,13 +39,7 @@ paper "[Inductive Representation Learning on Large Graphs](https://arxiv.org/abs
 
 * `data/`
   Auto-generated, contains original or intermediate synthetic data.
-
-* `examples/`
-  All the examples, python scripts or notebooks, illustrating the usage of the package.
-
-* `graphsage/`
-  Python package containing the main code for this project.
-
+  
 * `results/`
   Auto-generated, For results, e.g. tables (csv files), and plots (images)
 
@@ -61,7 +55,7 @@ python -m ipykernel install --user --name graphsage
 conda activate graphsage
 ```
 
-### Tests Documentation
+### Documentation
 
 To generate documentation, run
 
